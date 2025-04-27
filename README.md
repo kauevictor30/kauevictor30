@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/SX5c2mc4" alt="Kaue Victor" width="200px">
+  <img src="https://ibb.co/SX5c2mc4" width="200px">
 </p>
 
 
