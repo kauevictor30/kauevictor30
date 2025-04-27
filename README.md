@@ -1,9 +1,8 @@
+## 👋 Seja bem-vindo(a)!
 <p align="right">
   <img src="https://i.ibb.co/Y7PX6dXF/1742682225113.png" width="200px">
 </p>
 
-
-👋 Seja bem-vindo(a)!
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Evolução!;Amante+da+Tecnologia!;Proativo+e+Determinado!+🚀" alt="Typing SVG" /> </div>
 ✨ Sobre mim
 📍 Natural de Parnaíba - PI.
