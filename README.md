@@ -14,12 +14,11 @@
 🛠️ Tecnologias que utilizo:
 <div style="display: inline_block"><br> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </div>
 
-🧩 Meus projetos em destaque:
-🎴 Project: Clona Cartão (Meme) — Um projeto divertido inspirado em memes!
+## 🚀 Meus Projetos
 
-🖥️ Project: Portfólio 2025 — Meu portfólio pessoal, com foco em evolução e design clean.
+- 🎯 [Clona Cartão (Meme)](https://kauevictor30.github.io/colona-cartao-meme-project/) — Um projeto divertido inspirado em memes!
+- 💼 [Portfólio 2025](https://kauevictor30.github.io/Portfolio_kaue_2025/) — Meu portfólio pessoal, com foco em evolução e design clean.
 
-## 📊 Estatísticas GitHub:
 
 <div align="center">
   <a href="https://github.com/kauevictor30">
