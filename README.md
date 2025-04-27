@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\kauep\OneDrive\Imagens\1742682225113.png"" alt="Kaue Victor" width="200px">
+  <img src=""[C:\Users\kauep\OneDrive\Imagens\1742682225113.png](https://drive.google.com/file/d/1zDQFLPL_VHObEaUDr5HNgoNDOaLqyf-2/view?usp=sharing)"" alt="Kaue Victor" width="200px">
 </p>
 
 👋 Seja bem-vindo(a)!
