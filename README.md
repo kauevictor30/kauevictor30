@@ -13,13 +13,21 @@
 
 🛠️ Tecnologias que utilizo:
 <div style="display: inline_block"><br> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </div>
+
 🧩 Meus projetos em destaque:
 🎴 Project: Clona Cartão (Meme) — Um projeto divertido inspirado em memes!
 
 🖥️ Project: Portfólio 2025 — Meu portfólio pessoal, com foco em evolução e design clean.
 
-📊 Estatísticas GitHub:
-<div align="center"> <a href="https://github.com/seu-usuario"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=radical"/> </div>
+## 📊 Estatísticas GitHub:
+
+<div align="center">
+  <a href="https://github.com/kauevictor30">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauevictor30&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauevictor30&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
 📢 Conquistas:
 
 🚀 Sempre buscando evoluir!
