@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=""[C:\Users\kauep\OneDrive\Imagens\1742682225113.png](https://drive.google.com/file/d/1zDQFLPL_VHObEaUDr5HNgoNDOaLqyf-2/view?usp=sharing)"" alt="Kaue Victor" width="200px">
+  <img src="[https://link-da-imagem.png](https://imgur.com/a/HhXjOo5)" alt="Kaue Victor" width="200px">
 </p>
+
 
 👋 Seja bem-vindo(a)!
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Evolução!;Amante+da+Tecnologia!;Proativo+e+Determinado!+🚀" alt="Typing SVG" /> </div>
