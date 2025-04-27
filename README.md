@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://link-da-imagem.png](https://imgur.com/a/HhXjOo5)](https://imgur.com/a/PbzIT0l)" alt="Kaue Victor" width="200px">
+  <img src="[[[https://link-da-imagem.png](https://imgur.com/a/HhXjOo5)](https://imgur.com/a/PbzIT0l)](https://i.imgur.com/bK5A9uA.png)" alt="Kaue Victor" width="200px">
 </p>
 
 
