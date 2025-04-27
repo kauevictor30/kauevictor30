@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://link-da-imagem.png" alt="Kaue Victor" width="200px">
+  <img src="![image](https://github.com/user-attachments/assets/afa197b3-3845-427c-8178-41eaba6079d4)
+" alt="Kaue Victor" width="200px">
 </p>
 
 👋 Seja bem-vindo(a)!
