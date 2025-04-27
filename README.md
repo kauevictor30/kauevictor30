@@ -1,5 +1,5 @@
 ## 👋 Seja bem-vindo(a)!
-<p align="right">
+<p align="left">
   <img src="https://i.ibb.co/Y7PX6dXF/1742682225113.png" width="200px">
 </p>
 
