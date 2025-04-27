@@ -4,6 +4,7 @@
 </p>
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Evolução!;Amante+da+Tecnologia!;Proativo+e+Determinado!+🚀" alt="Typing SVG" /> </div>
+
 ## ✨ Sobre mim
 
 📍 Natural de Parnaíba - PI.
