@@ -36,4 +36,6 @@
 ## 📢 Conquistas:
 
 🚀 Sempre buscando evoluir!
-“O sucesso é a soma de pequenos esforços repetidos dia após dia.” ✨
+- Comecei o curso de ADS
+- Ganhei uma bolsa de 100% da Programe.io
+- Ganhei um notebook de ultima geração do da Programe.io
