@@ -38,4 +38,4 @@
 🚀 Sempre buscando evoluir!
 - Comecei o curso de ADS
 - Ganhei uma bolsa de 100% da Programe.io
-- Ganhei um notebook de ultima geração do da Programe.io
+- Ganhei um notebook de ultima geração da Programe.io
