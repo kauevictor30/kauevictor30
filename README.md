@@ -58,8 +58,11 @@
 ## 📈 Métricas de Contribuição
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kauevictor30&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauevictor30&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kauevictor30&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Métricas Gerais" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauevictor30&layout=compact&langs_count=7&theme=radical" alt="Principais Linguagens" />
 </p>
 
 <p align="center">
