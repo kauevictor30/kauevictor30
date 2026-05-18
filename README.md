@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/Y7PX6dXF/1742682225113.png" width="160px" style="border-radius: 50%; border: 2px solid #00FF00;">
+  <img src="https://res.cloudinary.com/dz7buzir6/image/upload/f_auto,q_auto/135743_xjtyy1" width="160px" border: 2px solid #00FF00;">
   
   <h1>Kauê Victor 🚀</h1>
 
