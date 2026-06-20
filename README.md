@@ -50,7 +50,7 @@
 📍 **Parnaíba - PI** | 🎓 **ADS na UNINASSAU** | ♿ **PCD**
 
 * 👨‍🏫 **Monitor de Lógica de Programação** na universidade.
-* 💼 **Estagiário na G-Dev Society**, focado em soluções escaláveis.
+* 💼 **ADM Porto Indie**, Apaixonado por construir comunnidades e redes de Networking.
 * 🌟 Buscando sempre as melhores práticas de Clean Code e Arquitetura.
 
 ---
