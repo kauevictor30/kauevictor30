@@ -1,76 +1,53 @@
-<div align="center">
-  <img src="https://res.cloudinary.com/dz7buzir6/image/upload/f_auto,q_auto/135743_xjtyy1" width="160px" border: 2px solid #00FF00;">
-  
-  <h1>Kauê Victor 🚀</h1>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Backend+Developer+|+Python+|+PHP;CI/CD+com+GitHub+Actions;Monitor+de+Lógica+de+Programação;Especialista+em+Laravel+%26+FastAPI" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://vksdesigner.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-    <a href="https://www.instagram.com/kauevictor.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  </p>
-</div>
-
----
-
-## 🛠️ Stack Tecnológica
-
-### ⚙️ Backend & Infra (Foco)
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-### 🤖 Automação & DevOps
-* **CI/CD:** Automatizando testes e deploys com **GitHub Actions**.
-* **Qualidade de Código:** Workflows para Linting e Type Checking (Pytest, Pylint).
-* **Mensageria:** Experiência com filas e comunicação assíncrona.
-
----
-
-## 🚀 Projetos Backend em Destaque
-
-* **🐍 Agregador de Links (Programe.io)**
-    * CRUD completo em Python para gestão dinâmica de links.
-* **💰 UpMoney (API)**
-    * Backend robusto em FastAPI com lógica de gamificação financeira.
-* **💬 Chat Real-time**
-    * Arquitetura de mensageria com Python, Websockets e filas.
-* **📊 Relacionamento de Entidades**
-    * Modelagem complexa de banco de dados e persistência.
-
----
-
-## ✨ Sobre mim
-
-📍 **Parnaíba - PI** | 🎓 **ADS na UNINASSAU** | ♿ **PCD**
-
-* 👨‍🏫 **Monitor de Lógica de Programação** na universidade.
-* 💼 **ADM Porto Indie**, Apaixonado por construir comunnidades e redes de Networking.
-* 🌟 Buscando sempre as melhores práticas de Clean Code e Arquitetura.
-
----
-
-## 📈 Métricas de Contribuição
+## Systems profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauevictor30&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Métricas Gerais" />
+  <img src="https://www.gitskins.com/api/section/hero?username=kauevictor30&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147155463%3Fu%3Dfcb45c9d0e88e081abf95bdb9d66bca8876c1f17%26v%3D4" alt="kauevictor30 hero visual" />
 </p>
+
+**Kauê Victor** · Frontend or full-stack engineer
+
+## Runtime notes
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Parnaiba - Piaui
+PUBLIC_REPOS = 40
+COMMUNITY   = 29 followers</code></pre>
+
+Sou estudante de programação e atualmente curso Análise e Desenvolvimento de Sistemas (ADS). Apesar de ser PCD, isso nunca foi um obstáculo para minha evolução.
+
+## Service toolkit
+
+<p><code>kauevictor30@github:~$ toolbox --list</code></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauevictor30&layout=compact&langs_count=7&theme=radical" alt="Principais Linguagens" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kauevictor30&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147155463%3Fu%3Dfcb45c9d0e88e081abf95bdb9d66bca8876c1f17%26v%3D4" alt="kauevictor30 stack visual" />
 </p>
+
+## System signals
+
+<table>
+<tr><td align="center"><b>40</b><br/><sub>repos</sub></td><td align="center"><b>21</b><br/><sub>stars</sub></td><td align="center"><b>468</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [Easy-Kamban](https://github.com/kauevictor30/Easy-Kamban) — Vue · 0 stars
+- [projeto-php-clinica-backend](https://github.com/kauevictor30/projeto-php-clinica-backend) — PHP · 1 stars
+- [Projeto-Limpa-City](https://github.com/kauevictor30/Projeto-Limpa-City) — Vue · 1 stars
+- [solinpy](https://github.com/carcaras/solinpy) — Python · 1 stars
+- [Penguin_adventures](https://github.com/kauevictor30/Penguin_adventures) — JavaScript · 0 stars
+- [UniGrade_university_manager](https://github.com/kauevictor30/UniGrade_university_manager) — TypeScript · 1 stars
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kauevictor30&theme=radical" alt="GitHub Streak" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kauevictor30&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147155463%3Fu%3Dfcb45c9d0e88e081abf95bdb9d66bca8876c1f17%26v%3D4" alt="kauevictor30 heatmap visual" />
 </p>
 
----
+## Open a channel
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
+  <img src="https://www.gitskins.com/api/section/social?username=kauevictor30&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147155463%3Fu%3Dfcb45c9d0e88e081abf95bdb9d66bca8876c1f17%26v%3D4" alt="kauevictor30 social visual" />
 </p>
+
+<a href="https://github.com/kauevictor30">GitHub</a> · <a href="https://kauevictordev.com.br">Website</a>
+
+<p align="center"><sub>Kauê Victor · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
