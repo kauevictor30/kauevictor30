@@ -1,76 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003b00&height=170&section=header&text=%3E_%20kauevictor30&fontSize=52&fontColor=00ff41&fontAlign=50&fontAlignY=42&desc=full-stack%20developer%20%C2%B7%20web3%20%C2%B7%20mobile&descSize=17&descColor=7ee787&descAlignY=68" alt="kauevictor30" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8e2de2&height=200&section=header&text=Kau%C3%AA%20Victor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20Web3%20%C2%B7%20Mobile&descSize=18&descAlignY=60" alt="Kauê Victor" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=00FF41&background=0D111700&center=true&vCenter=true&width=680&height=40&lines=%24+whoami+%E2%86%92+Kau%C3%AA+Victor;%24+stack+%E2%86%92+Laravel+%7C+React+%7C+Vue+%7C+TypeScript;%24+mobile+%E2%86%92+Flutter+%2F+Dart;%24+web3+%E2%86%92+Soroban+%C2%B7+Anchor+%C2%B7+Solidity;%24+status+%E2%86%92+open+to+work" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B388FF&center=true&vCenter=true&width=640&lines=Laravel+%7C+React+%7C+Vue+%7C+TypeScript;Flutter+%26+Mobile+apps;Smart+contracts+em+Stellar%2FSoroban%2C+Solana+e+Solidity;ADS+%C2%B7+Parna%C3%ADba+%2F+PI" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://kauevictordev.com.br"><img src="https://img.shields.io/badge/%24-portfolio-0d1117?style=for-the-badge&labelColor=003b00&color=0d1117&logo=gnubash&logoColor=00ff41" alt="portfolio" /></a>
-<a href="https://github.com/kauevictor30"><img src="https://img.shields.io/badge/%24-github-0d1117?style=for-the-badge&labelColor=003b00&color=0d1117&logo=github&logoColor=00ff41" alt="github" /></a>
-<img src="https://img.shields.io/badge/%24-parna%C3%ADba%2FPI-0d1117?style=for-the-badge&labelColor=003b00&color=0d1117&logo=linux&logoColor=00ff41" alt="local" />
+<a href="https://kauevictordev.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-kauevictordev.com.br-8e2de2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+<a href="https://github.com/kauevictor30"><img src="https://img.shields.io/badge/GitHub-kauevictor30-302b63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Parna%C3%ADba-PI-0f0c29?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Parnaíba - PI" />
 
 </div>
 
+---
+
+## 👋 Sobre mim
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor **full-stack**, de Parnaíba, Piauí.
+Apesar de ser PCD, isso nunca foi um obstáculo para minha evolução.
+
+- 🏗️ Construo sistemas web completos: **Laravel + React/Vue** com Inertia, APIs e painéis administrativos
+- 📱 Desenvolvo apps mobile com **Flutter**
+- ⛓️ Exploro **blockchain**: contratos em **Rust/Soroban (Stellar)**, **Anchor (Solana)** e **Solidity**
+- 🤖 Automatizo fluxos com **Python** e **Node.js**, incluindo agentes e ferramentas de IA
+- 🎮 Experimento com **Godot** e Unreal nas horas vagas
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/repos-40-8e2de2?style=flat-square&logo=github" alt="repos" />
+<img src="https://img.shields.io/badge/stars-21-8e2de2?style=flat-square&logo=github" alt="stars" />
 <br/>
+<img src="https://img.shields.io/badge/contribui%C3%A7%C3%B5es-468-8e2de2?style=flat-square&logo=github" alt="contribuições" />
+<img src="https://img.shields.io/badge/seguidores-29-8e2de2?style=flat-square&logo=github" alt="seguidores" />
 
-## `~/sobre`
+</td>
+</tr>
+</table>
 
-```console
-kauevictor30@github:~$ cat sobre.txt
-```
+---
 
-> Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor **full-stack**.
-> Apesar de ser PCD, isso nunca foi um obstáculo para minha evolução.
-
-```console
-kauevictor30@github:~$ cat perfil.conf
-ROLE         = "Full-stack developer"
-LOCATION     = "Parnaíba - Piauí"
-FOCUS        = ["Laravel + React/Vue", "Flutter", "Smart contracts", "Automação com Python/Node"]
-HOBBIES      = ["Godot", "Unreal", "Obsidian"]
-PUBLIC_REPOS = 40
-STARS        = 21
-CONTRIBUTIONS= 468
-FOLLOWERS    = 29
-```
-
-<br/>
-
-## `~/stack`
-
-```console
-kauevictor30@github:~$ toolbox --list --group
-```
+## 🛠️ Tecnologias
 
 <table>
 <tr>
 <td width="25%" valign="top" align="center">
 
-**`backend/`**
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,go,rust&perline=4" alt="Backend" />
 
 </td>
 <td width="25%" valign="top" align="center">
 
-**`frontend/`**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,vite,html,css&perline=4" alt="Frontend" />
 
 </td>
 <td width="25%" valign="top" align="center">
 
-**`mobile+games/`**
+**Mobile & Games**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,godot,unreal&perline=4" alt="Mobile e Games" />
 
 </td>
 <td width="25%" valign="top" align="center">
 
-**`web3/`**
+**Web3**
 
 <img src="https://skillicons.dev/icons?i=solidity,rust,solana&perline=4" alt="Web3" />
 
@@ -81,14 +84,14 @@ kauevictor30@github:~$ toolbox --list --group
 <tr>
 <td colspan="2" valign="top" align="center">
 
-**`data+infra/`**
+**Dados & Infra**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,docker,git,github,githubactions,linux&perline=9" alt="Dados e Infra" />
 
 </td>
 <td colspan="2" valign="top" align="center">
 
-**`tools/`**
+**Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,bash,npm,pnpm,vitest,postman&perline=8" alt="Ferramentas" />
 
@@ -97,89 +100,83 @@ kauevictor30@github:~$ toolbox --list --group
 </table>
 
 <details>
-<summary><b><code>$ cat libs.md</code></b> — bibliotecas e frameworks que mais uso</summary>
+<summary><b>📚 Bibliotecas e frameworks que mais uso</b></summary>
 <br/>
 
-```text
-web        Laravel 11/12 · Inertia.js · React 19 · Vue 3 · TanStack · Radix/shadcn-ui · Tailwind · Vite
-apis       Laravel (Sanctum, Eloquent) · FastAPI · Express · Go · Alembic
-mobile     Flutter · Dart · l10n (pt/en/es)
-blockchain Soroban SDK · Stellar SDK · Freighter · Anchor · Foundry/forge-std
-qualidade  PHPUnit · Vitest · ESLint · Docker Compose · GitHub Actions
-```
+| Área | Stack |
+|---|---|
+| **Web full-stack** | Laravel 11/12 · Inertia.js · React 19 · Vue 3 · TanStack · Radix/shadcn-ui · Tailwind CSS · Vite |
+| **APIs & serviços** | Laravel (Sanctum, Eloquent) · FastAPI · Express · Go · Alembic |
+| **Mobile** | Flutter · Dart · l10n (pt/en/es) |
+| **Blockchain** | Soroban SDK · Stellar SDK · Freighter · Anchor · Foundry/forge-std |
+| **Qualidade** | PHPUnit · Vitest · ESLint · Docker Compose · GitHub Actions |
 
 </details>
 
-<br/>
+---
 
-## `~/projetos/destaque`
-
-```console
-kauevictor30@github:~$ ls -la --sort=relevance projetos/
-```
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏁 [starline-racing](https://github.com/kauevictor30/project_arrancadao_stellar)
+### 🏁 [Starline Racing](https://github.com/kauevictor30/project_arrancadao_stellar)
 Jogo de corrida on-chain com contratos **Soroban** (marketplace, registro de carros, corrida) e frontend React/TypeScript.
 
-<img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Stellar-0d1117?style=flat-square&logo=stellar&logoColor=00ff41" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust" /> <img src="https://img.shields.io/badge/Stellar-000?style=flat-square&logo=stellar" /> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ [diz.ai](https://github.com/kauevictor30/diz.ai-the_ai_wallet_stellar)
+### 🎙️ [Diz.AI](https://github.com/kauevictor30/diz.ai-the_ai_wallet_stellar)
 Pagamentos Web3 por voz na **Stellar**: token em Soroban, backend em **Go** e frontend React.
 
-<img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Soroban-0d1117?style=flat-square&logo=stellar&logoColor=00ff41" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Soroban-000?style=flat-square&logo=stellar" /> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [unigrade](https://github.com/kauevictor30/UniGrade_university_manager)
+### 🎓 [UniGrade](https://github.com/kauevictor30/UniGrade_university_manager)
 Gestor universitário completo com **Laravel + Inertia + React/TypeScript**, componentes shadcn/Radix e tema claro/escuro.
 
-<img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00ff41" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff41" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 avalui
+### 🏢 Avalui
 SaaS de engenharia de avaliações em **Laravel + Vue + Inertia**, com biblioteca própria de componentes e suíte de testes.
 
-<img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=00ff41" /> <img src="https://img.shields.io/badge/PHPUnit-0d1117?style=flat-square&logo=php&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=flat-square" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [upmoney](https://github.com/kauevictor30/Project-UpMoney)
+### 💰 [UpMoney](https://github.com/kauevictor30/Project-UpMoney)
 App de finanças em **Flutter** com internacionalização (pt/en/es) e backend em **Python**.
 
-<img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [setup-definitivo](https://github.com/kauevictor30/Setup-Definitivo)
+### ⚙️ [Setup Definitivo](https://github.com/kauevictor30/Setup-Definitivo)
 CLI em **TypeScript** que instala e organiza meu ambiente de agentes de IA (squad de agentes, skills e playbooks), com testes em Vitest.
 
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-```console
-kauevictor30@github:~$ ls projetos/outros/
-```
+### 🗂️ Mais trabalhos
 
-| `projeto` | `descrição` | `stack` |
+| Projeto | Descrição | Stack |
 |---|---|---|
 | [Easy-Kamban](https://github.com/kauevictor30/Easy-Kamban) | Quadro kanban | Vue |
 | [Projeto-Limpa-City](https://github.com/kauevictor30/Projeto-Limpa-City) | Aplicação web | Vue |
@@ -197,35 +194,26 @@ kauevictor30@github:~$ ls projetos/outros/
 | [solinpy](https://github.com/carcaras/solinpy) | Ferramenta Python | Python |
 | [portfolio-kauevictor](https://github.com/kauevictor30/portfolio-kauevictor) | Meu portfólio | React · TanStack · Tailwind |
 
-<br/>
+---
 
-## `~/atividade`
-
-```console
-kauevictor30@github:~$ git log --graph --author=kauevictor30 --since="1 year"
-```
+## 📊 Atividade
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff41/kauevictor30" alt="Contribuições" width="95%" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kauevictor30&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F147155463%3Fu%3Dfcb45c9d0e88e081abf95bdb9d66bca8876c1f17%26v%3D4" alt="Heatmap de contribuições" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauevictor30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=7ee787&icon_color=00ff41" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauevictor30&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=7ee787" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauevictor30&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauevictor30&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29" alt="Linguagens mais usadas" />
 </p>
 
-<br/>
+---
 
-## `~/contato`
-
-```console
-kauevictor30@github:~$ ./contato.sh --open
-[ok] canal aberto → escolha uma opção abaixo
-```
+## 📫 Vamos conversar?
 
 <p align="center">
-  <a href="https://kauevictordev.com.br"><img src="https://img.shields.io/badge/%24-website-0d1117?style=for-the-badge&labelColor=003b00&color=0d1117&logo=gnubash&logoColor=00ff41" alt="Website" /></a>
-  <a href="https://github.com/kauevictor30"><img src="https://img.shields.io/badge/%24-github-0d1117?style=for-the-badge&labelColor=003b00&color=0d1117&logo=github&logoColor=00ff41" alt="GitHub" /></a>
+  <a href="https://kauevictordev.com.br"><img src="https://img.shields.io/badge/Website-8e2de2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/kauevictor30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003b00,100:0d1117&height=70&section=footer&text=exit%200&fontSize=18&fontColor=00ff41&fontAlignY=65" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:302b63,100:0f0c29&height=110&section=footer" alt="" width="100%" />
